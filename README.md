@@ -1,11 +1,4 @@
-<div align="center">
-   <h1>Python Learning Roadmap - (Software development and Machine Learning)</h1>
-	<p>✨This repo serves as a resource and guide for people beginning their journey into Software development or Machine Leanring and want to use Python programming langauge✨</p>
-   <p align="center">
-    <a href="https://github.com/iyanuashiri/Python-learning-pathway"><img src="https://img.shields.io/badge/Roadmap-2019-purple.svg"/></a>
-      <a href="https://twitter.com/intent/tweet?text=Python%Learning%20Roadmap%20for%20beginners%20https%3A//https://github.com/iyanuashiri/Python-learning-pathway"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
-
-
+# Python Learning Roadmap
 
 ## Beginner Level
 
