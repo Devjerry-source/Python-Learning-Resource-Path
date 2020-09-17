@@ -79,9 +79,11 @@
   - [About the changing id of an immutable string](https://stackoverflow.com/questions/24245324/about-the-changing-id-of-an-immutable-string/24245514#24245514)
 
 
+## Debugging
 
+### Resources
 
-[Debugging Python with pudb](https://stummjr.org/post/debugging-python-with-pudb/)
+  - [Debugging Python with pudb](https://stummjr.org/post/debugging-python-with-pudb/)
 
 
 
