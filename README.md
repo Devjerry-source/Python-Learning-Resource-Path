@@ -1,9 +1,9 @@
 # Python Learning Roadmap
 
 
-## 
+## Python
 
-### :book: Books
+### Resources
 
   - [Byte of Python](https://python.swaroopch.com/)
   - [How to Code in Python](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf)
@@ -12,13 +12,6 @@
       - [Fluent Python](https://evanli.github.io/programming-book-3/Python/Fluent%20Python.pdf)
       - [Effective Python](http://sd.blackball.lv/library/Effective_Python_(2015).pdf)
 
-
-### Tutorials
-
-  
-### Projects
-
-  
 
 **When you are done with learning the basics of Python language, the next thing is to choose the path you want to apply your Python knowledge. There is Web development, Machine Learning/Data Science, Desktop Software development, and Game development.**
 
@@ -47,7 +40,8 @@
 ## Machine Learning
 
 ### Resources
-  - [Machine Learning Projects](http://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
+  - [A Gentle Guide to Machine Learning](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
+    - [Machine Learning Projects](http://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
 
 
 
@@ -61,7 +55,6 @@
 
 ## Game Development
 
-
 ### Resources
 
 
@@ -70,6 +63,6 @@
 ## Testing
 
 ### Resources
- - []()
+ - [Speed Up Your Django Tests](https://gumroad.com/l/suydt)
  
  
