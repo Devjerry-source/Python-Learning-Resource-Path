@@ -25,21 +25,19 @@
 
 ## Web Development
 
-### :book: Books
+### Resources
 
   - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
   - [MDN Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
   - [Official Django Tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
   - [Django for Beginners](https://djangoforbeginners.com/)
   - [Tango with Django](https://www.tangowithdjango.com/#intro)
-  
     - [Django Girls Tutorial Extensions](https://tutorial-extensions.djangogirls.org/en/)
     - [Django Rest Framework Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
     - [Django for APIs](https://djangoforapis.com/)
       - [Django for Professionals](https://djangoforprofessionals.com/)
       - [Django Standalone Apps](https://www.apress.com/gp/book/9781484256312)
       - [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
- 
         - [Django 3 Web Development Cookbook](https://www.amazon.com/dp/B084WRLDSB/?tag=wsvincent-20)
         - [Mastering Django](https://www.amazon.com/dp/0648884414/?tag=wsvincent-20)
           - [Designing Microservices Using Django](https://www.amazon.com/Designing-Microservices-Using-Django-Architecture-ebook/dp/B08739XSF4)
@@ -48,21 +46,16 @@
 
 ## Machine Learning
 
-### :book: Books
+### Resources
   - [Machine Learning Projects](http://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
 
-### Tutorials
-
-### Projects
 
 
 ## Desktop Software Development
 
 ### Resources
 
-### Tutorials
 
-### Projects
 
 
 
@@ -70,23 +63,13 @@
 
 
 ### Resources
-### Tutorials
-
-### Projects
 
 
-## Mobile Development
-
-
-### Resources
-### Tutorials
-
-### Projects
 
 
 ## Testing
 
-### :book: Books
+### Resources
  - []()
  
  
