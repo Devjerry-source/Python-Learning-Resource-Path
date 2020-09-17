@@ -1,7 +1,7 @@
 # Python Learning Roadmap
 
 
-## Beginner Level
+## 
 
 ### :book: Books
 
@@ -18,13 +18,9 @@
 
 ### Projects
 
-
-
-### Tutorials
-
   
 
-** When you are done with learning the basics of Python language, the next thing is to choose the path you want to apply your Python knowledge. There is Web development, Machine Learning/Data Science, Desktop Software development, and Game development. **
+**When you are done with learning the basics of Python language, the next thing is to choose the path you want to apply your Python knowledge. There is Web development, Machine Learning/Data Science, Desktop Software development, and Game development.**
 
 
 ## Web Development
@@ -32,6 +28,7 @@
 ### :book: Books
 
   - [Django for Beginners](https://djangoforbeginners.com/)
+  - [Tango with Django](https://www.tangowithdjango.com/#intro)
     - [Django for Professionals](https://djangoforprofessionals.com/)
     - [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
     - [Django for APIs](https://djangoforapis.com/)
