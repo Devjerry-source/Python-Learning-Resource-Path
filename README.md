@@ -16,7 +16,7 @@
 
 ## Intermediate Level
 
-### Books
+### :book: Books
 
   - [Fluent Python](https://evanli.github.io/programming-book-3/Python/Fluent%20Python.pdf)
   - [Effective Python](http://sd.blackball.lv/library/Effective_Python_(2015).pdf)
@@ -41,14 +41,16 @@
     - [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
     - [Django for APIs](https://djangoforapis.com/)
       - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
+      - [Django 3 Web Development Cookbook](https://www.amazon.com/dp/B084WRLDSB/?tag=wsvincent-20)
+      - [Mastering Django](https://www.amazon.com/dp/0648884414/?tag=wsvincent-20)
 
 ### Tutorials
 
   - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
   - [MDN Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
   - [Official Django Tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
-  - [Django Girls Tutorial Extensions](https://tutorial-extensions.djangogirls.org/en/)
-  - [Django Rest Framework Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
+    - [Django Girls Tutorial Extensions](https://tutorial-extensions.djangogirls.org/en/)
+    - [Django Rest Framework Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
 
 ### Projects
 
