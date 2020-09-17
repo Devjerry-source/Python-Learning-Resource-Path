@@ -66,17 +66,17 @@
 
 ### Resources
 
-        - [CPython Optimizations](https://stummjr.org/post/cpython-optimizations/)
-        - [Web Service Efficiency at Instagram with Python](https://instagram-engineering.com/web-service-efficiency-at-instagram-with-python-4976d078e366)
-        - [The internals of Python string interning](http://guilload.com/python-string-interning/)
-        - [Pyflame: Uber Engineering’s Ptracing Profiler for Python](https://eng.uber.com/pyflame-python-profiler/)
-        - [Python Caches Integers](https://arpitbhayani.me/blogs/python-caches-integers)
-        - [Making Python Integers Iterable ](https://arpitbhayani.me/blogs/python-iterable-integers)
-        - [Building Finite State Machines with Python Coroutines ](https://arpitbhayani.me/blogs/fsm)
-        - [Function overloading in Python ](https://arpitbhayani.me/blogs/function-overloading)
-        - [I changed my Python and made it dubious | Python Internals](https://arpitbhayani.me/blogs/i-changed-my-python)
-        - [How python implements super long integers?](https://arpitbhayani.me/blogs/super-long-integers)
-        - [About the changing id of an immutable string](https://stackoverflow.com/questions/24245324/about-the-changing-id-of-an-immutable-string/24245514#24245514)
+  - [CPython Optimizations](https://stummjr.org/post/cpython-optimizations/)
+  - [Web Service Efficiency at Instagram with Python](https://instagram-engineering.com/web-service-efficiency-at-instagram-with-python-4976d078e366)
+  - [The internals of Python string interning](http://guilload.com/python-string-interning/)
+  - [Pyflame: Uber Engineering’s Ptracing Profiler for Python](https://eng.uber.com/pyflame-python-profiler/)
+  - [Python Caches Integers](https://arpitbhayani.me/blogs/python-caches-integers)
+  - [Making Python Integers Iterable ](https://arpitbhayani.me/blogs/python-iterable-integers)
+  - [Building Finite State Machines with Python Coroutines ](https://arpitbhayani.me/blogs/fsm)
+  - [Function overloading in Python ](https://arpitbhayani.me/blogs/function-overloading)
+  - [I changed my Python and made it dubious | Python Internals](https://arpitbhayani.me/blogs/i-changed-my-python)
+  - [How python implements super long integers?](https://arpitbhayani.me/blogs/super-long-integers)
+  - [About the changing id of an immutable string](https://stackoverflow.com/questions/24245324/about-the-changing-id-of-an-immutable-string/24245514#24245514)
 
 
 
