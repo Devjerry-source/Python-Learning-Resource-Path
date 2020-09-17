@@ -30,11 +30,13 @@
   - [Django for Beginners](https://djangoforbeginners.com/)
   - [Tango with Django](https://www.tangowithdjango.com/#intro)
     - [Django for Professionals](https://djangoforprofessionals.com/)
+    - [Django Standalone Apps](https://www.apress.com/gp/book/9781484256312)
     - [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
     - [Django for APIs](https://djangoforapis.com/)
-      - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
       - [Django 3 Web Development Cookbook](https://www.amazon.com/dp/B084WRLDSB/?tag=wsvincent-20)
       - [Mastering Django](https://www.amazon.com/dp/0648884414/?tag=wsvincent-20)
+        - [Designing Microservices Using Django](https://www.amazon.com/Designing-Microservices-Using-Django-Architecture-ebook/dp/B08739XSF4)
+        - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
 
 ### Tutorials
 
