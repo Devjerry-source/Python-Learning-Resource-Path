@@ -3,21 +3,26 @@
 
 ## Beginner Level
 
-### Resources
+:book: Books
 
 - [Byte of Python](https://python.swaroopch.com/)
 - []()
+
+
+### Tutorials
 
 ### Projects
 
 
 ## Intermediate Level
 
-### Resources
+### Books
 
 - [Fluent Python](https://evanli.github.io/programming-book-3/Python/Fluent%20Python.pdf)
 - [Effective Python](http://sd.blackball.lv/library/Effective_Python_(2015).pdf)
 - []()
+
+### Tutorials
 
 ### Projects
 
@@ -26,13 +31,18 @@
 
 ## Web Development
 
-### Resources
+### Books
+
+
+### Tutorials
 
 1. [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 2. [Django Girls Tutorial Extensions](https://tutorial-extensions.djangogirls.org/en/)
 3. [MDN Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 4. [Official Django Tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 5. [Django Rest Framework Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
+
+
 
 ### Projects
 
@@ -41,12 +51,16 @@
 
 ### Resources
 
+### Tutorials
+
 ### Projects
 
 
 ## Desktop Software Development
 
 ### Resources
+
+### Tutorials
 
 ### Projects
 
@@ -56,6 +70,7 @@
 
 
 ### Resources
+### Tutorials
 
 ### Projects
 
@@ -64,6 +79,7 @@
 
 
 ### Resources
+### Tutorials
 
 ### Projects
 
