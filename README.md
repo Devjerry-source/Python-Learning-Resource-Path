@@ -6,7 +6,7 @@
 ### :book: Books
 
 - [Byte of Python](https://python.swaroopch.com/)
-- []()
+- [How to Code in Python](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf)
 
 
 ### Tutorials
@@ -24,7 +24,8 @@
 
 ### Tutorials
 
-- https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6
+- [Idiomatic Python. Coding the smart way.](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6)
+- [A Cheap Introduction to Comprehension In Python](https://medium.com/the-andela-way/a-cheap-introduction-to-comprehension-in-python-2269895f996f)
 
 ### Projects
 
@@ -34,7 +35,12 @@
 ## Web Development
 
 ### :book: Books
-1. 
+
+1. [Django for Beginners](https://djangoforbeginners.com/)
+2. [Django for Professionals](https://djangoforprofessionals.com/)
+2. [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
+2. [Django for APIs](https://djangoforapis.com/)
+3. [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
 
 ### Tutorials
 
@@ -49,7 +55,8 @@
 
 ## Machine Learning
 
-### Resources
+### :book: Books
+1. [Machine Learning Projects](http://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
 
 ### Tutorials
 
