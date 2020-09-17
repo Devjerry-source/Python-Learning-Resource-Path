@@ -36,19 +36,19 @@
 
 ### :book: Books
 
-1. [Django for Beginners](https://djangoforbeginners.com/)
-2. [Django for Professionals](https://djangoforprofessionals.com/)
-2. [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
-2. [Django for APIs](https://djangoforapis.com/)
-3. [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
+- [Django for Beginners](https://djangoforbeginners.com/)
+-- [Django for Professionals](https://djangoforprofessionals.com/)
+-- [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
+-- [Django for APIs](https://djangoforapis.com/)
+--- [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
 
 ### Tutorials
 
-1. [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
-1. [MDN Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
-1. [Official Django Tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
-2. [Django Girls Tutorial Extensions](https://tutorial-extensions.djangogirls.org/en/)
-2. [Django Rest Framework Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+- [MDN Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+- [Official Django Tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+-- [Django Girls Tutorial Extensions](https://tutorial-extensions.djangogirls.org/en/)
+-- [Django Rest Framework Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
 
 ### Projects
 
@@ -56,7 +56,7 @@
 ## Machine Learning
 
 ### :book: Books
-1. [Machine Learning Projects](http://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
+- [Machine Learning Projects](http://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
 
 ### Tutorials
 
