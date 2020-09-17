@@ -37,10 +37,10 @@
 ### :book: Books
 
   - [Django for Beginners](https://djangoforbeginners.com/)
-  - [Django for Professionals](https://djangoforprofessionals.com/)
-  - [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
-  - [Django for APIs](https://djangoforapis.com/)
-  - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
+    - [Django for Professionals](https://djangoforprofessionals.com/)
+    - [Django 3 By Example](https://www.amazon.com/dp/1838981950/?tag=wsvincent-20)
+    - [Django for APIs](https://djangoforapis.com/)
+      - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
 
 ### Tutorials
 
